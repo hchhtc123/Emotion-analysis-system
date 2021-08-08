@@ -1,5 +1,7 @@
 # 中文微情感分析系统
-PaddleHub实战：基于OCEMOTION的中文微情感分析系统，完整项目地址：https://aistudio.baidu.com/aistudio/projectdetail/2211726
+PaddleHub实战：基于OCEMOTION的中文微情感分析系统
+
+完整项目地址：https://aistudio.baidu.com/aistudio/projectdetail/2211726
 
 全流程实战教程，带你玩转一个前沿完整文本分类项目开发！喜欢的希望能够fork、喜欢和关注三连！❤
 
@@ -24,4 +26,4 @@ AI Studio项目地址（附完整教程和完整源码哦！）：https://aistud
 可视化界面核心项目代码在work目录下"中文微情感分析系统"文件夹内。需要先将整个文件夹下载到本地后，根据文件夹内提供的‘环境配置指南及使用说明’进行操作即可，本地在CPU环境下也可以运行。
 
 ## 五.系统演示视频：
-B站链接：
+视频链接：
