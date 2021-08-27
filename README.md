@@ -8,6 +8,8 @@ PaddleHub实战：基于OCEMOTION的中文微情感分析系统
 ## 一.项目简介：
 本项目主要基于PaddleHub通过预训练模型Erine-tiny在中文7情感分类数据集OCEMOTION上进行微调从而完成7分类情感分析模型的搭建，并基于PyQt5完成了最终中文微情感分析系统的开发，支持单条和批量文本细粒度情感分类预测，具有前沿性和广泛的应用价值。同时全流程教程讲解将带你拿下一个完整文本分类项目的开发！
 
+![image](https://github.com/hchhtc123/Emotion-analysis-system/blob/main/route.png)
+
 ##  二.项目亮点：
 a.不同于传统的情感2分类（正向和负向），本项目使用了7分类数据集OCEMOTION可以达到更细粒度的情感分析，从而可以更好分析用户评论中表达情感，具有前沿性和广泛的应用价值。
 
@@ -25,5 +27,15 @@ AI Studio项目地址（附全流程教程和完整源码哦！）：https://ais
 
 可视化界面核心项目代码在work目录下"中文微情感分析系统"文件夹内。需要先将整个文件夹下载到本地后，根据文件夹内提供的‘环境配置指南及使用说明’进行操作即可，本地在CPU环境下也可以运行。
 
+![image](https://github.com/hchhtc123/Emotion-analysis-system/blob/main/start.png)
+
 ## 五.系统演示视频：
 视频链接： https://www.bilibili.com/video/BV1944y1C7FQ/
+
+单条文本情感分析页面：
+
+![image](https://github.com/hchhtc123/Emotion-analysis-system/blob/main/demonstration1.png)
+
+批量文本情感分析页面：
+
+![image](https://github.com/hchhtc123/Emotion-analysis-system/blob/main/demonstration2.png)
