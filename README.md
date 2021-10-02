@@ -34,8 +34,10 @@ AI Studio项目地址（附全流程教程和完整源码哦！）：https://ais
 
 单条文本情感分析页面：
 
+
 ![image](https://github.com/hchhtc123/Emotion-analysis-system/blob/main/demonstration1.png)
 
 批量文本情感分析页面：
+
 
 ![image](https://github.com/hchhtc123/Emotion-analysis-system/blob/main/demonstration2.png)
